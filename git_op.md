@@ -2,7 +2,7 @@
 ## Git简易流程 
  简单的一个流程操作过程示意图解
 
-![git简易流程示意图](https://raw.githubusercontent.com/wang-shuai/StaticResource/master/git%E6%B5%81%E7%A8%8B.png)
+![git简易流程示意图](https://raw.githubusercontent.com/wang-shuai/staticResource/master/git_flow.png)
 
 ### 代码流转（红线部分）
 1. 将代码从远程公共主仓库fork到私人远程库 
